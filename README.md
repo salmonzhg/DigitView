@@ -48,5 +48,3 @@ view.setColor(Color.BLACK);
 viewGroup.addView(view);
 ```
 
-###源码
-[GitHub](https://github.com/billy96322/DigitView)
