@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DigitalView">
+        <attr name="digiColor" format="color"/>
+        <attr name="digiTextSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="DigitalGroupView">
+
+        <attr name="digiGroupColor" format="color"/>
+        <attr name="digiGroupTextSize" format="dimension"/>
+        <attr name="digiGroupFigureCounts" format="integer"/>
+        <attr name="digiGroupInterval" format="dimension"/>
+
+    </declare-styleable>
+</resources>
